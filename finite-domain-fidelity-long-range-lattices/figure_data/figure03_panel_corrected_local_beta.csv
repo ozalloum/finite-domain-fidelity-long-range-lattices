@@ -1,0 +1,7 @@
+alpha,rho,N,q_c,period,open_error,corrected_error,naive_periodic_error,exact_periodic_error,panel,closure,error,beta_local,beta,beta_min,beta_max
+1.2,0.15,32768.0,,,,,,,corrected_local_beta,corrected,1.7663047852573262e-10,2.21848524185723,,,
+0.8,0.15,32768.0,,,,,,,corrected_local_beta,corrected,5.783637688768793e-09,2.021511008127707,,,
+0.8,0.3,32768.0,,,,,,,corrected_local_beta,corrected,5.449004123064106e-09,1.8179750867072804,,,
+1.2,0.3,32768.0,,,,,,,corrected_local_beta,corrected,1.7591209579142138e-10,2.201160975008648,,,
+1.6,0.15,32768.0,,,,,,,corrected_local_beta,corrected,5.005511502245903e-12,2.59835510339036,,,
+1.6,0.3,32768.0,,,,,,,corrected_local_beta,corrected,5.031939963005608e-12,2.5894578127794445,,,

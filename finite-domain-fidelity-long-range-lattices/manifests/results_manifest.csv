@@ -1,0 +1,10 @@
+result_id,claim,evidence_type,source_data,figure_source,manuscript_location,status
+R001,Open central closure defect scales as N^{-alpha},analytical + numerical,data/static/static_closure_scaling.csv;data/static/static_fits.csv,figure_data/figure03_panel_closure_scaling.csv;figure_data/figure03_panel_beta_vs_alpha.csv,Figure 3,PASS
+R002,Exact periodization reproduces infinite Fourier symbol at allowed modes,analytical + numerical validation,data/validation/operator_validation.csv,figure_data/figure02_panel_dispersion.csv,Figure 2 / Supplement,PASS
+R003,MI growth of the periodic reference agrees with theoretical g(q_c),numerical validation,data/theory/selected_modes.csv;data/dynamic/dynamic_fits.csv,figure_data/figure02_panel_mi_validation.csv,Figure 2,PASS
+R004,Open-domain field error grows on the MI timescale,numerical,data/dynamic/error_growth_rates.csv,figure_data/figure04_panel_g_error.csv,Figure 4,PASS
+R005,Early fidelity-horizon slope is approximately beta/g,analytical leading law + numerical,data/dynamic/horizon_scaling_fits.csv,figure_data/figure05_panel_slope_test.csv;figure_data/figure05_panel_slope_ratio.csv,Figure 5,PASS
+R006,Tail correction accelerates fixed-mode convergence,asymptotic hypothesis + numerical,data/static/static_local_slopes.csv;data/static/static_fits.csv,figure_data/figure03_panel_corrected_local_beta.csv,Figure 3,PASS with small-q caveat
+R007,Tail correction delays deterministic finite-domain error,numerical,data/dynamic/dynamic_diagnostics.csv,figure_data/figure04_panel_open_vs_corrected.csv,Figure 4 / Figure 6,PASS
+R008,Tail correction reduces Wasserstein discrepancy in R=64 paired pilot,pilot statistical diagnostic,data/stochastic/stochastic_pilot_summary.csv,figure_data/figure07_panel_wasserstein.csv;figure_data/figure08_panel_correction_efficiency.csv,Figures 7-8,PILOT only
+R009,"Independent reproducibility smoke test reproduces kernel tail, periodization, operator, static beta, and one dynamic benchmark",independent package QA,logs/reproducibility_smoke_test.csv,,Reproducibility package,PASS

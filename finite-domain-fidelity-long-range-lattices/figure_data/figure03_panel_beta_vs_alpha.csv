@@ -1,0 +1,4 @@
+alpha,rho,N,q_c,period,open_error,corrected_error,naive_periodic_error,exact_periodic_error,panel,closure,error,beta_local,beta,beta_min,beta_max
+0.8,,,,,,,,,beta_vs_alpha,,,,0.7974247371895447,0.7943285854760255,0.8005208889030638
+1.2,,,,,,,,,beta_vs_alpha,,,,1.200615377049365,1.2001532722697053,1.2010774818290246
+1.6,,,,,,,,,beta_vs_alpha,,,,1.6001801212918645,1.6001219098981472,1.6002383326855818

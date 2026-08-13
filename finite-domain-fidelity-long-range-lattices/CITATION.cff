@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this computational repository, please cite the associated manuscript and this software release."
+title: "Fidelity Horizons in Modulationally Unstable Long-Range Nonlinear Lattices: Computational Repository"
+type: software
+authors:
+  - family-names: "Zalloum"
+    given-names: "Othman H. Y."
+    orcid: "https://orcid.org/0000-0001-7282-1332"
+version: "1.0.0"
+date-released: "2026-08-13"
+license: MIT
+keywords:
+  - discrete nonlinear Schrodinger equation
+  - long-range interactions
+  - modulational instability
+  - finite-domain approximation
+  - nonlocal lattices
+  - numerical reproducibility

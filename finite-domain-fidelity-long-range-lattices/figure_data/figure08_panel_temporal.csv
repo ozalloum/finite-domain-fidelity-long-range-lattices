@@ -1,0 +1,7 @@
+alpha,beta,beta_min,beta_max,panel,rho,g_ratio,threshold,n_points,slope_Z_vs_lnN,intercept,r2,predicted_slope_beta_over_g,slope_ratio,N,corrected,open,reduction
+0.8,,,,temporal,0.15,1.0723293891012875,,,,,,,,,,,
+0.8,,,,temporal,0.3,0.961598160948148,,,,,,,,,,,
+1.2,,,,temporal,0.15,1.1436990543641354,,,,,,,,,,,
+1.2,,,,temporal,0.3,0.9791445207285708,,,,,,,,,,,
+1.6,,,,temporal,0.15,1.0305158207111915,,,,,,,,,,,
+1.6,,,,temporal,0.3,0.9703217567551036,,,,,,,,,,,

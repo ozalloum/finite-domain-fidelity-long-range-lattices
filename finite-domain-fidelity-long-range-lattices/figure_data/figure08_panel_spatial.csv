@@ -1,0 +1,4 @@
+alpha,beta,beta_min,beta_max,panel,rho,g_ratio,threshold,n_points,slope_Z_vs_lnN,intercept,r2,predicted_slope_beta_over_g,slope_ratio,N,corrected,open,reduction
+0.8,0.7974247371895447,0.7943285854760255,0.8005208889030638,spatial,,,,,,,,,,,,,
+1.2,1.200615377049365,1.2001532722697053,1.2010774818290246,spatial,,,,,,,,,,,,,
+1.6,1.6001801212918645,1.6001219098981472,1.6002383326855818,spatial,,,,,,,,,,,,,

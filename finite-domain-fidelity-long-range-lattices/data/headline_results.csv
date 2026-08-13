@@ -1,0 +1,18 @@
+metric,value,uncertainty,range_low,range_high,notes,dispersion_measure
+beta_open_alpha_0.8,0.7974247371895447,,0.7943285854760255,0.8005208889030638,"mean across rho=0.15,0.30; range_low/range_high are a descriptive two-case range, not a confidence interval or sampling uncertainty",
+beta_open_alpha_1.2,1.200615377049365,,1.2001532722697053,1.2010774818290246,"mean across rho=0.15,0.30; range_low/range_high are a descriptive two-case range, not a confidence interval or sampling uncertainty",
+beta_open_alpha_1.6,1.6001801212918645,,1.6001219098981472,1.6002383326855818,"mean across rho=0.15,0.30; range_low/range_high are a descriptive two-case range, not a confidence interval or sampling uncertainty",
+beta_corrected_local_alpha_1.2_rho_0.15,2.21848524185723,,,,local exponent at N=32768,
+beta_corrected_local_alpha_0.8_rho_0.15,2.021511008127707,,,,local exponent at N=32768,
+beta_corrected_local_alpha_0.8_rho_0.3,1.8179750867072804,,,,local exponent at N=32768,
+beta_corrected_local_alpha_1.2_rho_0.3,2.201160975008648,,,,local exponent at N=32768,
+beta_corrected_local_alpha_1.6_rho_0.15,2.59835510339036,,,,local exponent at N=32768,
+beta_corrected_local_alpha_1.6_rho_0.3,2.5894578127794445,,,,local exponent at N=32768,
+median_g_error_over_g_MI,0.9921114282455175,,,,"median ratio across 24 N/case estimates; dispersion_measure is the median absolute deviation from unity and is descriptive, not inferential uncertainty",0.03594279620302032
+median_horizon_slope_ratio,0.9725569608089902,,,,measured dZf/dlnN divided by beta/g across six cases; dispersion_measure is the median absolute deviation from unity and is descriptive,0.031848863286514095
+median_horizon_slope_ratio_excluding_smallq_stress,0.9746637974261144,,,,"excludes alpha=0.8,rho=0.15 small-q pre-asymptotic stress case; dispersion_measure is descriptive",0.029549875808133952
+pilot_DW_reduction_N128_Z25,0.7844942336199503,,,,R=64 paired stochastic pilot,
+pilot_DW_reduction_N256_Z25,0.7738434018507422,,,,R=64 paired stochastic pilot,
+pilot_DW_reduction_N512_Z25,0.6271743249288846,,,,R=64 paired stochastic pilot,
+max_periodization_identity_error,4.440892098500626e-16,,,,machine-precision identity check,
+max_fft_vs_direct_operator_error,2.7336071744532854e-15,,,,N=64 random complex vector,

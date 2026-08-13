@@ -1,0 +1,11 @@
+parameter,value,description
+alpha,"0.8, 1.2, 1.6",interaction-range exponent
+rho,"0.15, 0.30",dimensionless Kerr strength
+N deterministic,"128, 256, 512, 1024",dynamic domains
+N static,64 to 32768,operator-scaling sweep
+epsilon,1e-6,single-mode deterministic perturbation
+h,0.02,production RK4 step
+central window,N/4,error/statistical observation region
+stochastic sigma,1e-3,pilot noise amplitude
+stochastic R,64,paired pilot ensemble
+stochastic Nref,2048,exact-periodized pilot reference

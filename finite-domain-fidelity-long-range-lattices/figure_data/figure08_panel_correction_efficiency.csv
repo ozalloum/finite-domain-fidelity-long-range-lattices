@@ -1,0 +1,4 @@
+alpha,beta,beta_min,beta_max,panel,rho,g_ratio,threshold,n_points,slope_Z_vs_lnN,intercept,r2,predicted_slope_beta_over_g,slope_ratio,N,corrected,open,reduction
+,,,,correction_efficiency,,,,,,,,,,128.0,0.003507997204639,0.0162779737339026,0.7844942336199503
+,,,,correction_efficiency,,,,,,,,,,256.0,0.0019331112963973,0.0085476670246052,0.7738434018507422
+,,,,correction_efficiency,,,,,,,,,,512.0,0.0011903064678752,0.0031926622747968,0.6271743249288846

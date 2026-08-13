@@ -1,0 +1,6 @@
+test,value,target,error,tolerance,error_mode,status
+kernel_tail_local_exponent_alpha_0.8,0.7998591221352906,0.8,0.0001408778647093989,0.015,abs,PASS
+exact_periodization_max_abs_error,4.440892098500626e-16,0.0,4.440892098500626e-16,2e-13,abs,PASS
+fft_open_vs_direct_max_abs_error,1.8841109504205303e-15,0.0,1.8841109504205303e-15,1e-12,abs,PASS
+static_open_beta_alpha_0.8,0.8002497721178676,0.8,0.000249772117867586,0.025,abs,PASS
+dynamic_open_error_a080_r030_N128_Z10,1.0219260099177574e-06,1.0219260099177574e-06,0.0,0.01,rel,PASS

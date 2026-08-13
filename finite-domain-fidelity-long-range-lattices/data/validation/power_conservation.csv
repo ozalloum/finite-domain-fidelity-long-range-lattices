@@ -1,0 +1,3 @@
+system,metric,value,source_file
+exact_periodized_reference,max_abs_relative_power_drift,9.72022151656884e-09,data/dynamic/dynamic_diagnostics.csv
+open_finite,max_abs_relative_power_drift,9.201321260472302e-09,data/dynamic/dynamic_diagnostics.csv
